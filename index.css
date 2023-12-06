@@ -1,0 +1,24 @@
+body > section{
+  display:grid;
+    grid-template-columns: repeat(20,1fr);
+  height: 80vh;
+  grid-gap: 1px;
+  margin-top: 5vh;
+}
+
+.a0{
+background: grey;
+}
+
+.a1{
+background: black;
+}
+.a2{
+background: orange;
+}
+.a10{
+  background: blue;
+}
+.a20{
+  background: red;
+}
